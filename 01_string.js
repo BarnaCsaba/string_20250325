@@ -32,5 +32,8 @@ for(let i = 0; i < s.length; i++)
     let szovegosszefuzes = sz.concat(" ", sz1);
     console.log(szovegosszefuzes);
 
-    
+
+let s2 = "Hello";
+console.log(s.endsWith("Világ!"));
+console.log(hello.startsWith("Világ!"));
 
